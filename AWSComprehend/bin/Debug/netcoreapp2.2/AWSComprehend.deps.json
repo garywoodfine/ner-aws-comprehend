@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "206b67ec6cef24078bbc00318b2f58bced126cfd"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AWSComprehend/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Comprehend": "3.3.104.4",
+          "AWSSDK.S3": "3.3.101.16"
+        },
+        "runtime": {
+          "AWSComprehend.dll": {}
+        }
+      },
+      "AWSSDK.Comprehend/3.3.104.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.101.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Comprehend.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.4"
+          }
+        }
+      },
+      "AWSSDK.Core/3.3.101.13": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.13"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.101.16": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.101.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.16"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSComprehend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Comprehend/3.3.104.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z8MREsHjfo2QBrecwhb5E7/gGOFxMvYMJ20mJKXKkjOdXAMsKAobbaW2XwA9kC1NYC+6+MPmv3eMpjPV2T6sfw==",
+      "path": "awssdk.comprehend/3.3.104.4",
+      "hashPath": "awssdk.comprehend.3.3.104.4.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.3.101.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BTRgSOxkGufUNDQncTDaRUufl+vRCXwSGPhEUA/tm6e0P5aGQLtRsn69++3B/rZFCkrZFqYIxok35iTSq8Qzbg==",
+      "path": "awssdk.core/3.3.101.13",
+      "hashPath": "awssdk.core.3.3.101.13.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.101.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QVfZYFSqER7nP/edXaLrsHbZ7KLw4Z2R28JFTuwd31vrNGWuPqxcEzq3cK+XzLACQOQ4fVZBKJHJTB9lZrp6DQ==",
+      "path": "awssdk.s3/3.3.101.16",
+      "hashPath": "awssdk.s3.3.3.101.16.nupkg.sha512"
+    }
+  }
+}

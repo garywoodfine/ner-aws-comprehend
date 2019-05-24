@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/gary/code/AWSComprehend/AWSComprehend/AWSComprehend.csproj",
+    "projectName": "AWSComprehend",
+    "projectPath": "/home/gary/code/AWSComprehend/AWSComprehend/AWSComprehend.csproj",
+    "outputPath": "/home/gary/code/AWSComprehend/AWSComprehend/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AWSSDK.Comprehend": {
+          "target": "Package",
+          "version": "[3.3.104.4, )"
+        },
+        "AWSSDK.S3": {
+          "target": "Package",
+          "version": "[3.3.101.16, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

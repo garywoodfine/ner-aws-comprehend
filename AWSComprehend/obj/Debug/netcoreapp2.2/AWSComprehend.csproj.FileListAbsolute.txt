@@ -1,0 +1,11 @@
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.csprojAssemblyReference.cache
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.csproj.CoreCompileInputs.cache
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.AssemblyInfoInputs.cache
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.AssemblyInfo.cs
+/home/gary/code/AWSComprehend/AWSComprehend/bin/Debug/netcoreapp2.2/AWSComprehend.deps.json
+/home/gary/code/AWSComprehend/AWSComprehend/bin/Debug/netcoreapp2.2/AWSComprehend.runtimeconfig.json
+/home/gary/code/AWSComprehend/AWSComprehend/bin/Debug/netcoreapp2.2/AWSComprehend.runtimeconfig.dev.json
+/home/gary/code/AWSComprehend/AWSComprehend/bin/Debug/netcoreapp2.2/AWSComprehend.dll
+/home/gary/code/AWSComprehend/AWSComprehend/bin/Debug/netcoreapp2.2/AWSComprehend.pdb
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.dll
+/home/gary/code/AWSComprehend/AWSComprehend/obj/Debug/netcoreapp2.2/AWSComprehend.pdb
